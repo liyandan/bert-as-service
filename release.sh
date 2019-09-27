@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#add by liyandan,just for test
 set -e
 
 function escape_slashes {
